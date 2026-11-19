@@ -7,7 +7,7 @@ Code collection for U2AF2 RIP-seq in mouse oocytes and its association with tran
 ## Included modules
 
 | File | Purpose |
-|---|---|---|
+|---|---|
 | `scripts/01_consensus.py` | ≥2/5 IP support segments, merged consensus BED and SAF | 
 | `scripts/02_count_peaks.py` | Paired-end fragment counting with featureCounts |
 | `scripts/02_peak_enrichment.py` | Per-library CPM; descriptive IP/Input and IP/IgG enrichment | 
